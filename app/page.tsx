@@ -38,7 +38,7 @@ export default function Page() {
             width={1000}
             height={760}
             className="hidden md:block"
-            alr="Screenshots of the dashboard project showing desktop version"
+            alt="Screenshots of the dashboard project showing desktop version"
           />
 
           <Image
@@ -46,7 +46,7 @@ export default function Page() {
             width={560}
             height={620}
             className="hidden md:hidden"
-            alr="Screenshots of the dashboard project showing desktop version"
+            alt="Screenshots of the dashboard project showing desktop version"
           />
         </div>
       </div>
