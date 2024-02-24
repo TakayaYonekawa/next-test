@@ -1,0 +1,1 @@
+https://nextjs.org/learn/dashboard-app/fetching-data#practice-fetch-data-for-the-card-components
